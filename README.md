@@ -18,4 +18,4 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-！[】(https://github.com/xiefeng66/acrp/blob/master/q/8010ad70ef3845ac5e6d04b8ff2ebbb.png)
+！[](https://github.com/xiefeng66/acrp/blob/master/q/8010ad70ef3845ac5e6d04b8ff2ebbb.png)
